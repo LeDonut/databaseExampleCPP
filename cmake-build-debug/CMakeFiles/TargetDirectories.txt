@@ -1,3 +1,0 @@
-/Users/sanjayhartmann/Developer/databaseExampleCPP/cmake-build-debug/CMakeFiles/untitled.dir
-/Users/sanjayhartmann/Developer/databaseExampleCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/sanjayhartmann/Developer/databaseExampleCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
